@@ -7,3 +7,6 @@ http://vis-www.cs.umass.edu/
 Gary B. Huang, Manu Ramesh, Tamara Berg, and Erik Learned-Miller.
 Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments.
 University of Massachusetts, Amherst, Technical Report 07-49, October, 2007.
+
+Link to exercise: https://colab.research.google.com/drive/1CXr07KhEEJeaEbot92seV30vJvb3B-gi
+
